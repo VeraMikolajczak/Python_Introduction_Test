@@ -2,8 +2,9 @@
 
 # Python Introduction
 
-author: Vera Mikolajczak
+author: Melanie Janßen
+
 date: 2019-05-28
--pandas
--json
--urllib
+ -pandas
+ -json
+ -urllib
